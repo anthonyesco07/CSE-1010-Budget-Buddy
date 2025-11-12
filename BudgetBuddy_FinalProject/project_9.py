@@ -49,3 +49,5 @@ functions.financial_status(bal)
 
 grocery.get_expenses_list()
 car.get_expenses_list()
+
+print("this is a test")
